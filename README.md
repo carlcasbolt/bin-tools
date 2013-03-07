@@ -1,6 +1,4 @@
 my-bin-tools
 ============
 
-Useful tools from my bin directory
-
-
+useful tools from my bin directory
